@@ -1,0 +1,35 @@
+# Список файлів для завантаження
+
+- `.github/workflows/docs.yml`
+- `.gitignore`
+- `README.md`
+- `UPLOAD-GITHUB.md`
+- `docs/assets/mkp.png`
+- `docs/ru/configuration/firebird.md`
+- `docs/ru/configuration/storage.md`
+- `docs/ru/index.md`
+- `docs/ru/installation/install.md`
+- `docs/ru/installation/repository.md`
+- `docs/ru/installation/server-linux.md`
+- `docs/ru/localization.md`
+- `docs/ru/operations/changelog.md`
+- `docs/ru/operations/faq.md`
+- `docs/ru/operations/recommendations.md`
+- `docs/ru/web-server/apache.md`
+- `docs/ru/web-server/nginx.md`
+- `docs/ru/web-server/ssl.md`
+- `docs/uk/configuration/firebird.md`
+- `docs/uk/configuration/storage.md`
+- `docs/uk/index.md`
+- `docs/uk/installation/install.md`
+- `docs/uk/installation/repository.md`
+- `docs/uk/installation/server-linux.md`
+- `docs/uk/localization.md`
+- `docs/uk/operations/changelog.md`
+- `docs/uk/operations/faq.md`
+- `docs/uk/operations/recommendations.md`
+- `docs/uk/web-server/apache.md`
+- `docs/uk/web-server/nginx.md`
+- `docs/uk/web-server/ssl.md`
+- `mkdocs.yml`
+- `requirements-docs.txt`

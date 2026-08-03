@@ -1,0 +1,111 @@
+site_name: Документація АСУ МКР
+site_description: Документація з установлення, налаштування та експлуатації порталу АСУ МКР
+site_author: НВП МКР
+site_url: https://npp-mkr.github.io/asu_mkp/
+
+repo_url: https://github.com/NPP-MKR/asu_mkp
+repo_name: NPP-MKR/asu_mkp
+
+theme:
+  name: material
+  language: uk
+  logo: assets/mkp.png
+  favicon: assets/mkp.png
+  features:
+    - navigation.sections
+    - navigation.top
+    - navigation.footer
+    - content.code.copy
+    - search.suggest
+    - search.highlight
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: blue
+      accent: blue
+      toggle:
+        icon: material/weather-night
+        name: Темна тема
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: blue
+      accent: blue
+      toggle:
+        icon: material/weather-sunny
+        name: Світла тема
+
+nav:
+  - Головна: index.md
+  - Установлення:
+      - Установлення порталу: installation/install.md
+      - Підготовка сервера Linux: installation/server-linux.md
+      - Отримання вихідного коду: installation/repository.md
+  - Налаштування:
+      - Firebird: configuration/firebird.md
+      - Файлове сховище: configuration/storage.md
+  - Вебсервер:
+      - Apache: web-server/apache.md
+      - Nginx: web-server/nginx.md
+      - HTTPS: web-server/ssl.md
+  - Експлуатація:
+      - Рекомендації: operations/recommendations.md
+      - Часті запитання: operations/faq.md
+      - Історія змін: operations/changelog.md
+  - Локалізація: localization.md
+
+plugins:
+  - search
+  - i18n:
+      docs_structure: folder
+      fallback_to_default: true
+      reconfigure_search: true
+      languages:
+        - locale: uk
+          name: Українська
+          default: true
+          build: true
+        - locale: ru
+          name: Русский
+          build: true
+          site_name: Документация АСУ МКР
+          site_description: Документация по установке, настройке и эксплуатации портала АСУ МКР
+          theme:
+            language: ru
+          nav_translations:
+            Головна: Главная
+            Установлення: Установка
+            Установлення порталу: Установка портала
+            Підготовка сервера Linux: Подготовка сервера Linux
+            Отримання вихідного коду: Получение исходного кода
+            Налаштування: Настройка
+            Файлове сховище: Файловое хранилище
+            Вебсервер: Веб-сервер
+            Експлуатація: Эксплуатация
+            Рекомендації: Рекомендации
+            Часті запитання: Частые вопросы
+            Історія змін: История изменений
+            Локалізація: Локализация
+
+markdown_extensions:
+  - admonition
+  - attr_list
+  - def_list
+  - tables
+  - toc:
+      permalink: true
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.highlight:
+      anchor_linenums: true
+
+extra:
+  alternate:
+    - name: Українська
+      link: /
+      lang: uk
+    - name: Русский
+      link: /ru/
+      lang: ru
+  generator: false
+
+copyright: НВП МКР
