@@ -118,6 +118,29 @@ common/config/main-local.php
 
 У ньому виконується початкове налаштування порталу.
 
+### 7.1 Права доступу
+
+Після ініціалізації перевірте права доступу до робочих каталогів і конфігураційних файлів порталу.
+
+| Каталог | Призначення |
+|---|---|
+| `backend/runtime` | runtime backend |
+| `backend/web/assets` | assets backend |
+| `frontend/runtime` | runtime frontend |
+| `frontend/web/assets` | assets frontend |
+| `api/runtime` | runtime api |
+| `common/config/*-local.php` | налаштування порталу |
+| `common/config` | конфіг-файли (languages, main, api-*, auth-local) |
+| `frontend/config` | конфіг-файли (serviceManager-local.php) |
+| `assets/users` | файли налаштування, logo, тексти на головній, portal.css/js та інші |
+| `assets/contract` | файли шаблонів контрактів і статусів |
+| `storage` | файлове сховище |
+
+!!! warning "Права доступу"
+    - каталоги — `0775`;
+    - конфігураційні файли — `0664`;
+    - власник — користувач веб-сервера.
+
 ## 8. Налаштування порталу
 
 ### Бази даних
