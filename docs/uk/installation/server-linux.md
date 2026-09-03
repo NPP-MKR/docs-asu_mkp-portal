@@ -50,7 +50,7 @@ sudo apt install -y ca-certificates curl unzip gnupg lsb-release software-proper
 
 ## 6. PHP
 
-Потрібен PHP 8.1 і вище, рекомендовано 8.3.
+Потрібен PHP 8.2 і вище, рекомендовано 8.3.
 
 Приклад установлення PHP 8.3:
 
