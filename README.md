@@ -55,5 +55,5 @@ Settings → Pages → Deploy from a branch → gh-pages → /(root)
 ## Адреса сайту
 
 ```text
-https://npp-mkr.github.io/asu_mkp/
+https://npp-mkr.github.io/docs-asu_mkp-portal
 ```
