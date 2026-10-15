@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <url>
+        <loc>https://npp-mkr.github.io/asu_mkp/</loc>
+        <lastmod>2026-10-15</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="uk" href="https://npp-mkr.github.io/asu_mkp/"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://npp-mkr.github.io/asu_mkp/ru/"/>
+    </url>
+    <url>
+        <loc>https://npp-mkr.github.io/asu_mkp/localization/</loc>
+        <lastmod>2026-10-15</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="uk" href="https://npp-mkr.github.io/asu_mkp/localization/"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://npp-mkr.github.io/asu_mkp/ru/localization/"/>
+    </url>
+    <url>
+        <loc>https://npp-mkr.github.io/asu_mkp/configuration/firebird/</loc>
+        <lastmod>2026-10-15</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="uk" href="https://npp-mkr.github.io/asu_mkp/configuration/firebird/"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://npp-mkr.github.io/asu_mkp/ru/configuration/firebird/"/>
+    </url>
+    <url>
+        <loc>https://npp-mkr.github.io/asu_mkp/configuration/storage/</loc>
+        <lastmod>2026-10-15</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="uk" href="https://npp-mkr.github.io/asu_mkp/configuration/storage/"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://npp-mkr.github.io/asu_mkp/ru/configuration/storage/"/>
+    </url>
+    <url>
+        <loc>https://npp-mkr.github.io/asu_mkp/installation/install/</loc>
+        <lastmod>2026-10-15</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="uk" href="https://npp-mkr.github.io/asu_mkp/installation/install/"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://npp-mkr.github.io/asu_mkp/ru/installation/install/"/>
+    </url>
+    <url>
+        <loc>https://npp-mkr.github.io/asu_mkp/installation/repository/</loc>
+        <lastmod>2026-10-15</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="uk" href="https://npp-mkr.github.io/asu_mkp/installation/repository/"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://npp-mkr.github.io/asu_mkp/ru/installation/repository/"/>
+    </url>
+    <url>
+        <loc>https://npp-mkr.github.io/asu_mkp/installation/server-linux/</loc>
+        <lastmod>2026-10-15</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="uk" href="https://npp-mkr.github.io/asu_mkp/installation/server-linux/"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://npp-mkr.github.io/asu_mkp/ru/installation/server-linux/"/>
+    </url>
+    <url>
+        <loc>https://npp-mkr.github.io/asu_mkp/operations/changelog/</loc>
+        <lastmod>2026-10-15</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="uk" href="https://npp-mkr.github.io/asu_mkp/operations/changelog/"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://npp-mkr.github.io/asu_mkp/ru/operations/changelog/"/>
+    </url>
+    <url>
+        <loc>https://npp-mkr.github.io/asu_mkp/operations/faq/</loc>
+        <lastmod>2026-10-15</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="uk" href="https://npp-mkr.github.io/asu_mkp/operations/faq/"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://npp-mkr.github.io/asu_mkp/ru/operations/faq/"/>
+    </url>
+    <url>
+        <loc>https://npp-mkr.github.io/asu_mkp/operations/recommendations/</loc>
+        <lastmod>2026-10-15</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="uk" href="https://npp-mkr.github.io/asu_mkp/operations/recommendations/"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://npp-mkr.github.io/asu_mkp/ru/operations/recommendations/"/>
+    </url>
+    <url>
+        <loc>https://npp-mkr.github.io/asu_mkp/web-server/apache/</loc>
+        <lastmod>2026-10-15</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="uk" href="https://npp-mkr.github.io/asu_mkp/web-server/apache/"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://npp-mkr.github.io/asu_mkp/ru/web-server/apache/"/>
+    </url>
+    <url>
+        <loc>https://npp-mkr.github.io/asu_mkp/web-server/nginx/</loc>
+        <lastmod>2026-10-15</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="uk" href="https://npp-mkr.github.io/asu_mkp/web-server/nginx/"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://npp-mkr.github.io/asu_mkp/ru/web-server/nginx/"/>
+    </url>
+    <url>
+        <loc>https://npp-mkr.github.io/asu_mkp/web-server/ssl/</loc>
+        <lastmod>2026-10-15</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="uk" href="https://npp-mkr.github.io/asu_mkp/web-server/ssl/"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://npp-mkr.github.io/asu_mkp/ru/web-server/ssl/"/>
+    </url>
+    <url>
+        <loc>https://npp-mkr.github.io/asu_mkp/ru/</loc>
+        <lastmod>2026-10-15</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://npp-mkr.github.io/asu_mkp/ru/"/>
+        <xhtml:link rel="alternate" hreflang="uk" href="https://npp-mkr.github.io/asu_mkp/"/>
+    </url>
+    <url>
+        <loc>https://npp-mkr.github.io/asu_mkp/ru/localization/</loc>
+        <lastmod>2026-10-15</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://npp-mkr.github.io/asu_mkp/ru/localization/"/>
+        <xhtml:link rel="alternate" hreflang="uk" href="https://npp-mkr.github.io/asu_mkp/localization/"/>
+    </url>
+    <url>
+        <loc>https://npp-mkr.github.io/asu_mkp/ru/configuration/firebird/</loc>
+        <lastmod>2026-10-15</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://npp-mkr.github.io/asu_mkp/ru/configuration/firebird/"/>
+        <xhtml:link rel="alternate" hreflang="uk" href="https://npp-mkr.github.io/asu_mkp/configuration/firebird/"/>
+    </url>
+    <url>
+        <loc>https://npp-mkr.github.io/asu_mkp/ru/configuration/storage/</loc>
+        <lastmod>2026-10-15</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://npp-mkr.github.io/asu_mkp/ru/configuration/storage/"/>
+        <xhtml:link rel="alternate" hreflang="uk" href="https://npp-mkr.github.io/asu_mkp/configuration/storage/"/>
+    </url>
+    <url>
+        <loc>https://npp-mkr.github.io/asu_mkp/ru/installation/install/</loc>
+        <lastmod>2026-10-15</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://npp-mkr.github.io/asu_mkp/ru/installation/install/"/>
+        <xhtml:link rel="alternate" hreflang="uk" href="https://npp-mkr.github.io/asu_mkp/installation/install/"/>
+    </url>
+    <url>
+        <loc>https://npp-mkr.github.io/asu_mkp/ru/installation/repository/</loc>
+        <lastmod>2026-10-15</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://npp-mkr.github.io/asu_mkp/ru/installation/repository/"/>
+        <xhtml:link rel="alternate" hreflang="uk" href="https://npp-mkr.github.io/asu_mkp/installation/repository/"/>
+    </url>
+    <url>
+        <loc>https://npp-mkr.github.io/asu_mkp/ru/installation/server-linux/</loc>
+        <lastmod>2026-10-15</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://npp-mkr.github.io/asu_mkp/ru/installation/server-linux/"/>
+        <xhtml:link rel="alternate" hreflang="uk" href="https://npp-mkr.github.io/asu_mkp/installation/server-linux/"/>
+    </url>
+    <url>
+        <loc>https://npp-mkr.github.io/asu_mkp/ru/operations/changelog/</loc>
+        <lastmod>2026-10-15</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://npp-mkr.github.io/asu_mkp/ru/operations/changelog/"/>
+        <xhtml:link rel="alternate" hreflang="uk" href="https://npp-mkr.github.io/asu_mkp/operations/changelog/"/>
+    </url>
+    <url>
+        <loc>https://npp-mkr.github.io/asu_mkp/ru/operations/faq/</loc>
+        <lastmod>2026-10-15</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://npp-mkr.github.io/asu_mkp/ru/operations/faq/"/>
+        <xhtml:link rel="alternate" hreflang="uk" href="https://npp-mkr.github.io/asu_mkp/operations/faq/"/>
+    </url>
+    <url>
+        <loc>https://npp-mkr.github.io/asu_mkp/ru/operations/recommendations/</loc>
+        <lastmod>2026-10-15</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://npp-mkr.github.io/asu_mkp/ru/operations/recommendations/"/>
+        <xhtml:link rel="alternate" hreflang="uk" href="https://npp-mkr.github.io/asu_mkp/operations/recommendations/"/>
+    </url>
+    <url>
+        <loc>https://npp-mkr.github.io/asu_mkp/ru/web-server/apache/</loc>
+        <lastmod>2026-10-15</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://npp-mkr.github.io/asu_mkp/ru/web-server/apache/"/>
+        <xhtml:link rel="alternate" hreflang="uk" href="https://npp-mkr.github.io/asu_mkp/web-server/apache/"/>
+    </url>
+    <url>
+        <loc>https://npp-mkr.github.io/asu_mkp/ru/web-server/nginx/</loc>
+        <lastmod>2026-10-15</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://npp-mkr.github.io/asu_mkp/ru/web-server/nginx/"/>
+        <xhtml:link rel="alternate" hreflang="uk" href="https://npp-mkr.github.io/asu_mkp/web-server/nginx/"/>
+    </url>
+    <url>
+        <loc>https://npp-mkr.github.io/asu_mkp/ru/web-server/ssl/</loc>
+        <lastmod>2026-10-15</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://npp-mkr.github.io/asu_mkp/ru/web-server/ssl/"/>
+        <xhtml:link rel="alternate" hreflang="uk" href="https://npp-mkr.github.io/asu_mkp/web-server/ssl/"/>
+    </url>
+</urlset>
