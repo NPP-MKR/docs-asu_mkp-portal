@@ -1,10 +1,10 @@
 site_name: Документація АСУ МКР
 site_description: Документація з установлення, налаштування та експлуатації порталу АСУ МКР
 site_author: НВП МКР
-site_url: https://npp-mkr.github.io/asu_mkp/
+site_url: https://npp-mkr.github.io/docs-asu_mkp-portal/
 
-repo_url: https://github.com/NPP-MKR/asu_mkp
-repo_name: NPP-MKR/asu_mkp
+repo_url: https://github.com/NPP-MKR/docs-asu_mkp-portal
+repo_name: NPP-MKR/docs-asu_mkp-portal
 
 theme:
   name: material
@@ -101,10 +101,10 @@ markdown_extensions:
 extra:
   alternate:
     - name: Українська
-      link: /
+      link: /docs-asu_mkp-portal/
       lang: uk
     - name: Русский
-      link: /ru/
+      link: /docs-asu_mkp-portal/ru/
       lang: ru
   generator: false
 
